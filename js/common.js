@@ -539,6 +539,7 @@ function getCookie(cname) {
   return "";
 }
 
+
 //  <==  檢查某 cookie 是否存在  ==>
 
 function checkCookie(cname) {
